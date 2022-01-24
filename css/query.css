@@ -1,0 +1,389 @@
+@media (max-width: 768px) {
+  .head-1 {
+    font-size: 25px;
+  }
+  .header-content {
+    left: 15%;
+    width: 550px;
+  }
+  .header {
+    height: 130vh;
+  }
+  .head-2 {
+    font-size: 70px;
+  }
+  .skills {
+    height: 290.1vh;
+  }
+  .skill-1 {
+    width: 100vw;
+  }
+  .skill-2 {
+    width: 100vw;
+    top: 342px;
+  }
+  .skill-3 {
+    width: 100vw;
+    top: 684px;
+  }
+  .skill-4 {
+    width: 100vw;
+    height: 80vh;
+  }
+  .skill1para {
+    left: 190px;
+  }
+  .station1 {
+    width: 290px;
+    height: 200px;
+    left: 50px;
+  }
+  .station2 {
+    right: 30px;
+    /* width: 45vw; */
+  }
+  .station2para {
+    width: 300px;
+  }
+  .station2para2 {
+    width: 300px;
+  }
+  .station2head {
+    padding-top: 20px;
+  }
+  .stationbtn {
+    padding: 1px 10px;
+    font-size: 20px;
+  }
+  .crad3 {
+    display: none;
+  }
+  .product2 {
+    left: 60px;
+  }
+  .card1img {
+    width: 300px;
+    height: 200px;
+  }
+  .crad1 {
+    left: 60px;
+  }
+  .crad2 {
+    left: 400px;
+  }
+  .card1head1,
+  .crad2head2 {
+    font-size: 40px;
+  }
+  .card1para {
+    font-size: 30px;
+  }
+  .service {
+    height: 380vh;
+  }
+  .all-ser {
+    top: 150px;
+  }
+  .ser1 {
+    width: 350px;
+    left: 210px;
+  }
+  .ser2 {
+    width: 350px;
+    left: 210px;
+    top: 620px;
+  }
+  .ser3 {
+    width: 350px;
+    left: 210px;
+    top: 1190px;
+  }
+  .foot1 {
+    top: 60px;
+    left: 60px;
+  }
+
+  .foot1cont {
+    padding-top: 0px;
+  }
+  .foot2cont {
+    padding: 10px 0;
+  }
+  .foot3cont {
+    padding-top: 10px;
+  }
+  .foot1head {
+    width: 79%;
+  }
+  .footsp1 {
+    letter-spacing: 10px;
+  }
+  .foot2 {
+    left: 400px;
+    width: 0;
+  }
+  ::placeholder {
+    font-size: 15px;
+  }
+  .foot2cont3 {
+    width: 300px;
+    margin-top: 40px;
+  }
+  .foot2cont1 {
+    width: 300px;
+    margin: 20px 0;
+  }
+  .foot2cont2 {
+    width: 300px;
+    margin-bottom: 30px;
+    height: 100px;
+  }
+  .btnn {
+    font-size: 18px;
+    padding: 1px 10px;
+    margin-right: 28px;
+  }
+  .endicon {
+    font-size: 30px;
+  }
+  .endpara {
+    font-size: 19px;
+  }
+}
+
+@media (max-width: 480px) {
+  .head-1 {
+    font-size: 20px;
+  }
+  .header-content {
+    left: 9%;
+    width: 400px;
+  }
+  .header {
+    height: 110vh;
+  }
+  .head-2 {
+    font-size: 50px;
+    padding: 30px 0;
+  }
+  .sec2 {
+    font-size: 40px;
+    padding-top: 40px;
+  }
+  .skills {
+    height: 225.5vh;
+  }
+  .skill-1 {
+    width: 100vw;
+    height: 275px;
+  }
+  .skill-2 {
+    width: 100vw;
+    top: 275px;
+    height: 275px;
+  }
+  .skill-3 {
+    width: 100vw;
+    top: 550px;
+    height: 275px;
+  }
+  .skill-4 {
+    width: 100vw;
+    top: 825px;
+    height: 275px;
+  }
+  .skill1para {
+    left: 40px;
+    font-size: 30px;
+  }
+  .skill1head {
+    padding: 10px 0;
+  }
+  .station {
+    height: 172vh;
+  }
+  .station1 {
+    width: 350px;
+    height: 200px;
+    left: 60px;
+    top: 60px;
+  }
+  .station2 {
+    left: 60px;
+    top: 300px;
+    /* width: 100vw; */
+  }
+  
+  .station2para {
+    width: 300px;
+  }
+  .station2para2 {
+    width: 300px;
+  }
+  .station2head {
+    padding-top: 20px;
+    /* width: 100px; */
+  }
+  .stationbtn {
+    padding: 1px 10px;
+    font-size: 20px;
+  }
+
+  .products {
+    height: 265vh;
+  }
+  .product1 {
+    top: 400px;
+    left: 30px;
+  }
+  .product2 {
+    left: 60px;
+    top: 40px;
+  }
+  .product2para {
+    width: 400px;
+  }
+  .card1img {
+    width: 370px;
+    height: 200px;
+  }
+  .crad1 {
+    left: 20px;
+    top: 130px;
+  }
+  .crad2 {
+    left: 20px;
+    top: 500px;
+  }
+  /* .crad3 {
+    left: 60px;
+    top: 900px;
+  } */
+  .card1head1,
+  .crad2head2 {
+    font-size: 40px;
+  }
+  .card1para {
+    font-size: 30px;
+  }
+  .service {
+    height: 385vh;
+  }
+  .all-ser {
+    top: 150px;
+  }
+  .ser1 {
+    width: 300px;
+    left: 90px;
+  }
+  .ser-cont-1 {
+    font-size: 40px;
+  }
+  .ser-cont-2 {
+    font-size: 52px;
+  }
+  .ser2 {
+    width: 300px;
+    left: 90px;
+    top: 620px;
+  }
+  .ser3 {
+    width: 300px;
+    left: 90px;
+    top: 1190px;
+  }
+  .footer {
+    height: 175vh;
+  }
+  .foot1 {
+    top: 60px;
+    left: 90px;
+  }
+
+  .foot1cont {
+    padding-top: 0px;
+  }
+  .foot2cont {
+    padding: 10px 0;
+  }
+  .foot3cont {
+    padding-top: 10px;
+  }
+  .foot1head {
+    width: 79%;
+  }
+  .footsp1 {
+    letter-spacing: 10px;
+  }
+  .foot2 {
+    left: 90px;
+    width: 0;
+    top: 440px;
+  }
+  ::placeholder {
+    font-size: 15px;
+  }
+  .foot2cont3 {
+    width: 300px;
+    margin-top: 40px;
+  }
+  .foot2cont1 {
+    width: 300px;
+    margin: 20px 0;
+  }
+  .foot2cont2 {
+    width: 300px;
+    margin-bottom: 30px;
+    height: 100px;
+  }
+  .btnn {
+    font-size: 18px;
+    padding: 1px 10px;
+    margin-right: 88px;
+  }
+  .endicon {
+    font-size: 25px;
+    padding: 30px 5px 0 5px;
+  }
+  .endpara {
+    font-size: 15px;
+    letter-spacing: 7px;
+  }
+  input[type="checkbox"] {
+    top: 14px;
+    width: 40px;
+    height: 40px;
+    right: 10px;
+  }
+  .head-icon {
+    font-size: 32px;
+    top: 15px;
+    left: 10px;
+  }
+  .hamburger-all{
+      width: 35vw;
+  }
+  .head-icon-1{
+      font-size: 32px;
+      margin: 15px 0 0 10px;
+  }
+  .header-logo{
+      width: 50px;
+      height: 50px;
+      top: 20px;
+      left: 46%;
+  }
+  .head-btn {
+    padding: 6px 20px;
+  }
+  .hamburger-list{
+      padding-left: 20px;
+  }
+
+  a{
+      font-size: 30px;
+  }
+  .end{
+      height: 23vh;
+  }
+}
